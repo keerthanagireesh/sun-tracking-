@@ -9,9 +9,9 @@
 
 
 ### Team Members
-- Team Lead: [keerthana pg] - [snmimt]
+- Team Lead: [Keerthana pg] - [snmimt]
 - Member 2: [Amal va] - [snmimt]
-- Member 3: [ashwin pr] - [znmimt]
+- Member 3: [Aswin pr] - [snmimt]
 
 ### Project Description
 Arduino based sunlight tracking system using LDR
